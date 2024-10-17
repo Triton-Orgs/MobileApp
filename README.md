@@ -10,6 +10,11 @@ Link to Google Doc Notes: https://docs.google.com/document/d/14-brXOF97JMIMpIA03
 git clone <repo>
 cd MobileApp
 npm intall
-npx expo start
+npm start
 ```
+
+### Code Style
+
+run `npm run lint` to check for warnings and errors and `npm run lint-fix` to fix the ones that can be fixed automatically.
+
 Install the expo app on android or iphone device and scan the QR code in the terminal
