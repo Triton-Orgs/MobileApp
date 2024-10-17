@@ -13,8 +13,8 @@ npm intall
 npm start
 ```
 
+Install the expo app on android or iphone device and scan the QR code in the terminal
+
 ### Code Style
 
 run `npm run lint` to check for warnings and errors and `npm run lint-fix` to fix the ones that can be fixed automatically.
-
-Install the expo app on android or iphone device and scan the QR code in the terminal
